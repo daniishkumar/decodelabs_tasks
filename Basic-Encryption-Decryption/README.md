@@ -28,11 +28,9 @@ Basic-Encryption-Decryption/
 ├── README.md
 ├── requirements.txt
 ├── screenshots/
-│   ├── Home.png
-│   ├── Enc_Dec.png
-│   └── OnlyDecryption.png
-└── demo/
-    └── Project_demo.mp4
+  ├── Home.png
+  ├── Enc_Dec.png
+  └── OnlyDecryption.png
 ```
 
 ## How to Run
@@ -44,14 +42,6 @@ Basic-Encryption-Decryption/
 ```bash
 python BasicEncryptionDecryption.py
 ```
-
-## Demo Video
-
-The project demonstration video is available in the repository:
-
-demo/Project_demo.mp4
-
-Download or open the video file to see the encryption and decryption process in action.
 
 ## Learning Outcomes
 
